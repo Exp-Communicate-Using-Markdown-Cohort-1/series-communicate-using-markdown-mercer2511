@@ -31,3 +31,8 @@ class Persona {
     }
 }
 ```
+## Proyectos
+Actualmente tengo 3 proyectos en curso
+- [ ] Modelar una base de datos para un colegio.
+- [ ] Implementar una página web que sirva de interfaz.
+- [ ] Medir el impacto de usar dicha aplicación.
